@@ -1,3 +1,6 @@
+## Purpose
+I built this little product table when learning React.js. The React docs use this as their final section "Thinking in React," and I thought it would be a good and manageable task to implement what I've learned without using their code.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
